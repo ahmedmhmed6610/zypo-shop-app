@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "511358556380",
+    "project_id": "syria-shop-ee7a2",
+    "storage_bucket": "syria-shop-ee7a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511358556380:android:607f2a2849521488fc3c19",
+        "android_client_info": {
+          "package_name": "com.germaniatek.Zypern_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511358556380-8e3j4n1mecor2bhl1dv1d79m1r2nt3u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBx-Rkx3zbRt3X7h4YFoAPSj9dsoaxh9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511358556380-8e3j4n1mecor2bhl1dv1d79m1r2nt3u0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "511358556380-8e8rlrmbphfa0ik1snh14h6okmsieq41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.germaniatek.markety"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511358556380:android:2a3ddbbdcbf8c5f2fc3c19",
+        "android_client_info": {
+          "package_name": "com.germaniatek.markety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511358556380-odn47eg91di6tbsro1r9t3jcpelq0idg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.germaniatek.markety",
+            "certificate_hash": "a03905749843118f6c547ded9777c481f8e60479"
+          }
+        },
+        {
+          "client_id": "511358556380-8e3j4n1mecor2bhl1dv1d79m1r2nt3u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBx-Rkx3zbRt3X7h4YFoAPSj9dsoaxh9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511358556380-8e3j4n1mecor2bhl1dv1d79m1r2nt3u0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "511358556380-8e8rlrmbphfa0ik1snh14h6okmsieq41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.germaniatek.markety"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

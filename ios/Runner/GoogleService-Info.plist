@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>511358556380-gv7v9v1ssgqg016jnla6gfq6vueob73h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.511358556380-gv7v9v1ssgqg016jnla6gfq6vueob73h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>511358556380-odn47eg91di6tbsro1r9t3jcpelq0idg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJ6SG52HXQg7WnFtz8Rs8IZuGwbzstiyU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>511358556380</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.germaniatek.Zypern-market</string>
+	<key>PROJECT_ID</key>
+	<string>syria-shop-ee7a2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>syria-shop-ee7a2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:511358556380:ios:422f149cdf0f40cafc3c19</string>
+</dict>
+</plist>
